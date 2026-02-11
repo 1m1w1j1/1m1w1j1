@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/e48dcf93-7166-4f37-aea5-5a6bc6995034/thumbnail" >
-</p>
-
 <!--
 **1m1w1j1/1m1w1j1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,4 +39,11 @@ A Boot.dev project I completed.
 
 ## Links
 
+---
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/e48dcf93-7166-4f37-aea5-5a6bc6995034/thumbnail" >
+</p>
+
+---
 - **GitHub**: [@1m1w1j1](https://github.com/1m1w1j1)
