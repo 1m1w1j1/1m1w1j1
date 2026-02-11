@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 # Mark Jones (1m1w1j1)
 
-> Professional Quality Manager and hobbyist developer. Not a web designer.
-> Either working, gaming, or developing something. 🫠
+> Professional quality manager and hobbyist developer. Not a web designer.
+> Either working, working out, or developing something. 🫠
 
 ---
 
