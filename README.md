@@ -43,4 +43,4 @@ A Boot.dev project I completed.
 
 ## Links
 
-- **GitHub**: [@Ale32bit](https://github.com/1m1w1j1)
+- **GitHub**: [@1m1w1j1](https://github.com/1m1w1j1)
